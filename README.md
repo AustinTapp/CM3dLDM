@@ -23,5 +23,6 @@ This greatly improves the training speed of the overall process as it allows for
 
 <ins>For Inference:</ins>
 Run infer.py
+
 Visualize the results!
 
