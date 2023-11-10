@@ -5,7 +5,7 @@ The provided code may be adapted for the synthesis of any modality, given the pr
 
 # How to Use
 
-Pull the master branch with: 
+Pull the main branch with: git pull https://github.com/AustinTapp/CM3dLDM.git
 
 Ensure all packages are installed (requirements.txt).
 
