@@ -22,7 +22,5 @@ Then, increase the batch size in CM3dLDM_UNet.py and perform only DDPM training.
 This greatly improves the training speed of the overall process as it allows for hardware specific configuration.
 
 <ins>For Inference:</ins>
-Run infer.py
-
-Visualize the results!
+Run infer.py and visualize the results!
 
