@@ -1,0 +1,7 @@
+numpy>=1.17
+torch>=1.8
+monai==1.2.0
+simpleitk>=2.2.1
+matplotlib>=3.7.1
+tqdm>=4.65.0
+scikit-learn>=1.2.2
