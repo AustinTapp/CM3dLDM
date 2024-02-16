@@ -192,7 +192,7 @@ if __name__ == "__main__":
 
     optimizer_g = torch.optim.Adam(params=autoencoder.parameters(), lr=1e-4, betas=(0.5, 0.9), eps=1e-06)
 
-    optimizer_d = torch.optim.Adam(params=autoencoder.parameters(), lr=1e-4, betas=(0.5, 0.9), eps=1e-06)
+    optimizer_d = torch.optim.Adam(params=discriminator.parameters(), lr=1e-4, betas=(0.5, 0.9), eps=1e-06)
 
     #if continuing training, it is best to set warm_up to -1, however this is not required
     n_epochs = int(1000 * run_scale)
